@@ -12,3 +12,8 @@ O dashboard abaixo mostra diferentes visões das vendas realizadas nos quatro ú
 
 ![Dashboard Estratégia de Vendas](https://github.com/jessicamendonca/PowerBI/blob/master/EstudoCaso1.PNG)
 
+# Dashboard Construído
+## Dashboard com as métricas de vendas, custo, margem de lucro e KPI
+[Arquivos](https://github.com/jessicamendonca/PowerBI/tree/master/EstudoCaso3)
+
+![Dashboard com as métricas de vendas, custo, margem de lucro e KPI](https://github.com/jessicamendonca/PowerBI/blob/master/EstudoCaso3.PNG)
